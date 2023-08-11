@@ -1,0 +1,38 @@
+.container {
+  width: 190px;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.ClearBtn {
+  width: 91%;
+  border: 0;
+  border-radius: 2px;
+  color: crimson;
+  margin-top: 3px;
+}
+
+.result {
+  background-color: lightgreen;
+  color: black;
+  border: 0;
+  width: 169px;
+}
+
+.btn {
+  width: 40px;
+  color: crimson;
+  border-radius: 2px;
+  border: 0;
+  margin-top: 2px;
+  padding-top: 5px;
+}
+
+.halfBtn {
+  width: 40px;
+  color: crimson;
+  border: 0;
+  border-radius: 2px;
+  margin-top: 2px;
+  padding: 5px;
+}
